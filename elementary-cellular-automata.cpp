@@ -1,8 +1,3 @@
-//Nafshiyat Nihal
-//Dr. Nahum
-//10/14/2021
-//Project 1: Cellular Automata
-
 #include <iostream>
 
 #include <string>
